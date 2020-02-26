@@ -1,2 +1,2 @@
-# Class14-WeatherApp
+# WeatherApp
 https://ognent.github.io/Class14-WeatherApp/
